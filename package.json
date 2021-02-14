@@ -2,7 +2,10 @@
   "name": "calculate",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sibinlu.github.io/calculate/",
   "dependencies": {
+    "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
